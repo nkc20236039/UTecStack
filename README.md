@@ -1,6 +1,12 @@
 # UTecStack
 効率を高めるためのツールや、汎用性の高い機能をまとめておくリポジトリ。
 
+# FolderKeeper
+Gitへフォルダ構成もプッシュできるように.gitkeepファイルを作成する。
+
+## 使い方
+ソースコードをプロジェクトに入れるだけで機能します。
+
 # EditorCameraSynchronizer
 > [単独リポジトリ](https://github.com/nkc20236039/EditorCameraSynchronizer)
 
