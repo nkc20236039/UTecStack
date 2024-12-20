@@ -1,7 +1,8 @@
 ﻿#if UNITY_EDITOR
 using UnityEditor;
 using UnityEngine;
-namespace UTecStack
+
+namespace UToyStack.EditorCameraSynchronizer
 {
     [RequireComponent(typeof(Camera))]
     public class EditorCameraSynchronizer : MonoBehaviour
