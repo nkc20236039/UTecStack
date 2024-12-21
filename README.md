@@ -13,5 +13,12 @@ Gitへフォルダ構成もプッシュできるように.gitkeepファイルを
 シーンビューで見ている画面とゲームビューのカメラの画面を同期する。
 
 ## 使い方
-Prefabをヒエラルキーに配置するか、任意のカメラに「EditorCameraSynchronizer」スクリプトをアタッチする。  
-PrefabのデフォルトはDisplay2に描画するように設定されている。
+[単独リポジトリのREADMEを参照](https://github.com/nkc20236039/EditorCameraSynchronizer/blob/main/README.md)
+
+# MonoEventAufheben
+> [単独リポジトリ](https://github.com/nkc20236039/MonoEventAufheben)  
+
+`HighPerformanceCShape`からオブジェクト指向CShape(MonoBehaviourなど)へイベントを送信する。
+
+## 使い方
+[単独リポジトリのREADMEを参照](https://github.com/nkc20236039/MonoEventAufheben/blob/main/README.md)
